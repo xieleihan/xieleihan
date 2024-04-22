@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/xieleihan/xieleihan/assets/57227318/5ed67391-7faa-40a7-9b5f-4c3c4962d8c9)<!--
 
 ### Hi there 👋
 **xieleihan/xieleihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<div align="center" width="100%">
-	<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="headerImages" style="object-fit:cover" />
-</div>
-
-
+![HeaderImages](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <!--
 头像
