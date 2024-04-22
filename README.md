@@ -34,6 +34,13 @@ Here are some ideas to get you started:
  <p align="center"> 🌈LGBT+丨💖单推迷路的牙刷 | 🎉热爱摄影 | ⭐必须前端
  </p>
 </p>
+<h4 align="left">Self Introduction:</h4>
+<div align="center">
+    - ✨ Creating bugs since 2021 (my coding journey began)
+    - 🌱 I’m currently learning : Full stack development
+    - 📫 How to reach me: <a href="https://mail.google.com">xieleihan@southaki.cn</a>
+    - 💬 Ask me about : 🌈It must be Top, not Bottom, no, don’t think I am
+</div>
 <h3 align="left">Used Languages :</h3>
 <div align="center">
     <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java logo"  />
