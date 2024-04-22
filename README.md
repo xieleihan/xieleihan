@@ -1,4 +1,4 @@
-![image](https://github.com/xieleihan/xieleihan/assets/57227318/5ed67391-7faa-40a7-9b5f-4c3c4962d8c9)<!--
+<!--
 
 ### Hi there 👋
 **xieleihan/xieleihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
