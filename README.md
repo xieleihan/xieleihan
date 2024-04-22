@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 </p>
 <h4 align="left">Self Introduction:</h4>
 <div align="center">
-    - ✨ Creating bugs since 2021 (my coding journey began)
-    - 🌱 I’m currently learning : Full stack development
-    - 📫 How to reach me: <a href="https://mail.google.com">xieleihan@southaki.cn</a>
-    - 💬 Ask me about : 🌈It must be Top, not Bottom, no, don’t think I am
+    <p>- ✨ Creating bugs since 2021 (my coding journey began)</p>
+    <p>- 🌱 I’m currently learning : Full stack development</p>
+    <p>- 📫 How to reach me: <a href="https://mail.google.com">xieleihan@southaki.cn</a></p>
+    <p>- 💬 Ask me about : 🌈It must be Top, not Bottom, no, don’t think I am</p>
 </div>
 <h3 align="left">Used Languages :</h3>
 <div align="center">
