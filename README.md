@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 
 ![HeaderImages](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<div class="center">
- <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
-    </a>
-  </div>
-</div>
-
 <!--
 头像
 -->
