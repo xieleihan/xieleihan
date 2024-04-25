@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ![HeaderImages](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F70000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&separator=%3C&lines=console.log(%22Hello+World%22);%3C%E6%AC%A2%E8%BF%8E%E5%8F%91%E7%8E%B0%E6%88%91%E7%9A%84%E5%B0%8F%E4%B8%96%E7%95%8C%E5%96%B5%3CThe+quick+brown+fox+jumps+over+the+lazy+dog)](https://git.io/typing-svg)
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=console.log(%22Hello+World%22);%3C%E6%AC%A2%E8%BF%8E%E5%8F%91%E7%8E%B0%E6%88%91%E7%9A%84%E5%B0%8F%E4%B8%96%E7%95%8C%E5%96%B5%3CThe+quick+brown+fox+jumps+over+the+lazy+dog" alt="Typing SVG" /></a>
+</div>
 
 <!--
 头像
