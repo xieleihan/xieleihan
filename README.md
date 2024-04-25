@@ -93,9 +93,13 @@ Here are some ideas to get you started:
   <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
 </div>
 
-<!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+<br/>
 
+<!-- Quotes 名人名言 -->
+<h3 align="left">Quotes :</h3>
+<div align="center">
+ <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+</div>
 
 <!--
 Github WidgetBox
