@@ -35,7 +35,7 @@ Here are some ideas to get you started:
    </a>
  </h2>
  <p align="center"> 循此苦旅,以达星辰 </p>
- <p align="center"> 🌈LGBT+丨💖单推迷路的牙刷 | 🎉热爱摄影 | ⭐必须前端
+ <p align="center"> 🌈LGBT+丨💖单推mldys | 🎉热爱摄影 | ⭐研究数码科技ing
  </p>
 </p>
 <h4 align="left">Self Introduction:</h4>
