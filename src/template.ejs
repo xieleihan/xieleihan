@@ -1,6 +1,8 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
 
-<h2>今天</h2><blockquote>是<%= updatedAt %>（每天早上 6:30 自动更新）</blockquote>
+<p>今天是<%= updatedAt %>（每天早上 6:30 自动更新）</p>
+
+<hr />
 
 <p>你好喵，<img src="/src/images/mona-loading-default.gif" width="25" alt="手势"> 欢迎来访我的世界</p>
 
@@ -15,31 +17,38 @@
             <p>🌈 LGBT+ 丨 💖 单推 mldys | 🎉 热爱摄影 | ⭐ 研究数码科技 ing</p>
         </td>
     </tr>
+</table>
+<table>
+    <h3 align="left">Tools & Technology Stack:</h3>
     <tr>
-        <h3 align="left">Tools & Technology Stack:</h3>
-        <h4 align="left">Technology Stack:</h4>
-        <div align="center">
-            <% languages.forEach(function(language){ %>
-                <img src="<%= language.iconUrl %>" height="45" alt="<%= language.iconAlt %>" />
-                <img width="6" />
-                <% }); %>
-        </div>
-        <div align="center">
+        <td>
+            <h4 align="left">Technology Stack:</h4>
+            <div align="center">
+                <% languages.forEach(function(language){ %>
+                    <img src="<%= language.iconUrl %>" height="45" alt="<%= language.iconAlt %>" />
+                    <img width="6" />
+                    <% }); %>
+            </div>
+            
+        </td>
+        <td>
             <h4 align="left">Tools:</h4>
-            <% tools.forEach(function(tool){ %>
-                <img src="<%= tool.iconUrl %>" height="45" alt="<%= tool.iconAlt %>" />
-                <img width="6" />
-                <% }); %>
-        </div>
+            <div align="center">
+                <% tools.forEach(function(tool){ %>
+                    <img src="<%= tool.iconUrl %>" height="45" alt="<%= tool.iconAlt %>" />
+                    <img width="6" />
+                    <% }); %>
+            </div>
+        </td>
     </tr>
     <tr>
         <td>
             <h4 align="left">Self Introduction:</h4>
             <div align="center">
-                <p>- ✨ Creating bugs since 2021 (my coding journey began)</p>
-                <p>- 🌱 I’m currently learning : Full stack development</p>
-                <p>- 📫 How to reach me: <a href="https://mail.google.com">xieleihan@southaki.cn</a></p>
-                <p>- 💬 Ask me about : 🌈It must be Top, not Bottom, no, don’t think I am</p>
+                <p align="left">- ✨ Creating bugs since 2021 (my coding journey began)</p>
+                <p align="left">- 🌱 I’m currently learning : Full stack development</p>
+                <p align="left">- 📫 How to reach me: <a href="https://mail.google.com">xieleihan@southaki.cn</a></p>
+                <p align="left">- 💬 Ask me about : 🌈It must be Top, not Bottom, no, don’t think I am</p>
             </div>
         </td>
         <td>

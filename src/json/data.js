@@ -2,10 +2,6 @@ const data = {
     // 使用的工具
     "tools": [
         {
-            "iconUrl": "https://fastly.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
-            "iconAlt": "git logo"
-        },
-        {
             "iconUrl": "https://fastly.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg",
             "iconAlt": "atom logo"
         },
