@@ -1,13 +1,15 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>今天是2025年06月10日 01时46分（每天早上 6:30 自动更新）</p>
+<p>今天是2025年06月10日 02时16分（每天早上 6:30 自动更新）</p>
+<p>欢迎来到我的个人主页！</p>
+<p>当前Action构建服务器的IP地址信息: 0.0.0.0, 位置信息: 夜之城</p>
 <hr  />
 <p>你好喵，<img src="/src/images/mona-loading-default.gif" width="25" alt="手势"> 欢迎来访我的世界</p>
-<table width="100%">
-  <tr width="100%">
-    <td width="160px" align="center" style="vertical-align: middle;">
-      <img width="150px" src="https://avatars.githubusercontent.com/u/57227318?v=4" alt="Avatar">
+<table style="width:100%; table-layout:fixed;">
+  <tr>
+    <td width="160" align="center">
+      <img width="150" src="https://avatars.githubusercontent.com/u/57227318?v=4" alt="Avatar">
     </td>
-    <td>
+    <td style="padding-left: 10px; width:100%;">
       <h2>南秋SouthAki</h2>
       <p>循此苦旅,以达星辰</p>
       <p>🌈 LGBT+ 丨 💖 单推 mldys | 🎉 热爱摄影 | ⭐ 研究数码科技 ing</p>
@@ -103,7 +105,6 @@
 <div align="center">
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br /></div>
 </div>
-<br  />
 <!-- Github Stats -->
 <p align="center">
   <h2 align="center">
@@ -113,7 +114,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xieleihan&count_private=true&show_icons=true&line_height=46"align="center" alt="Stats"  />
   <img src="https://github-contribution-stats.vercel.app/api/?username=xieleihan" align="center" alt="Stats"  />
 </p>
-<br  />
 <!-- Current Streak -->
 <p align="center">
   <h2 align="center">

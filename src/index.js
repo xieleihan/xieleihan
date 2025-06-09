@@ -7,6 +7,7 @@ const prettify = require('html-prettify');
 const dayjs = require("dayjs");
 
 const data = require('./json/data');
+const getInfo = require('./api/request');
 
 const tplPath = path.join(__dirname, './template.ejs');
 const outputPath = path.join(__dirname, '../README.md');
@@ -16,8 +17,13 @@ const main = async () => {
 
     const tplStr = fs.readFileSync(tplPath, 'utf8');
 
+    const [ipinfo] = await Promise.all([
+        getInfo(),
+    ]);
+
     const html = ejs.render(tplStr, {
         ...data,
+        ipinfo,
         updatedAt,
     });
 
