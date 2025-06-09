@@ -1,8 +1,8 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>今天是2025年06月10日 01时32分（每天早上 6:30 自动更新）</p>
+<p>今天是2025年06月10日 01时42分（每天早上 6:30 自动更新）</p>
 <hr  />
 <p>你好喵，<img src="/src/images/mona-loading-default.gif" width="25" alt="手势"> 欢迎来访我的世界</p>
-<table>
+<table width="100%">
   <tr>
     <td width="160px" align="center">
       <img width="150px" src="https://avatars.githubusercontent.com/u/57227318?v=4" alt="Avatar">
@@ -96,7 +96,8 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=xieleihan&data=followers,repositories,stars,commits"align="center" alt="Stats"  />
 </p>
 <!-- Profile-3D-Contrib -->
-![](./profile-3d-contrib/profile-gitblock.svg)<br  />
+<img src="./profile-3d-contrib/profile-gitblock.svg"  alt="Github Commit Profile-3D-Contrib"  />
+<br  />
 <!-- Quotes 名人名言 -->
 <h3 align="left">Quotes :</h3>
 <div align="center">
@@ -119,5 +120,5 @@
   Current Streak</h2>
 </p>
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=xieleihan" align="center"alt="Github Readme Streak Stats"  />
+  <img src="https://streak-stats.demolab.com/?user=xieleihan" align="center"alt="Github Readme Streak Stats"  />
 </p>
