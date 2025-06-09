@@ -1,5 +1,7 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>今天是2025年06月10日 02时03分（每天早上 6:30 自动更新）</p>
+<p>今天是2025年06月10日 02时16分（每天早上 6:30 自动更新）</p>
+<p>欢迎来到我的个人主页！</p>
+<p>当前Action构建服务器的IP地址信息: 0.0.0.0, 位置信息: 夜之城</p>
 <hr  />
 <p>你好喵，<img src="/src/images/mona-loading-default.gif" width="25" alt="手势"> 欢迎来访我的世界</p>
 <table style="width:100%; table-layout:fixed;">
