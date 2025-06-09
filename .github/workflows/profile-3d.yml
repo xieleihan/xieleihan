@@ -1,12 +1,19 @@
-name: GitHub-Profile-3D-Contrib
+name: Daily Automation Tasks
 
 on:
-  schedule: # 02:30 IST == 21:00 UTC
-    - cron: "0 21 * * *"
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
   workflow_dispatch:
+  schedule:
+    # Profile 3D 图像更新（每天 5:00 UTC）
+    - cron: "0 21 * * *"
+    # README 每天 6:30（UTC+8）
+    - cron: "30 22 * * *"
 
 jobs:
-  build:
+  generate-3d:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
@@ -22,3 +29,36 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
+  generate-readme:
+    runs-on: ubuntu-latest
+    name: Generate README
+    steps:
+      - name: 设置时区
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: 'Asia/Shanghai'
+          timezoneMacos: "Asia/Shanghai"
+          timezoneWindows: "Asia/Shanghai"
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: 环境配置
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+          cache: 'npm'
+      - name: 缓存
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: 安装依赖
+        run: npm install
+      - name: 生成 README.md
+        env:
+          M3O_TOKEN: ${{ secrets.M3O_TOKEN }}
+        run: npm run build --if-present
+      - name: 推送新 README.md
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

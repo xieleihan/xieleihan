@@ -1,0 +1,28 @@
+{
+    "name": "southaki",
+    "version": "1.0.0",
+    "description": "<img style=\"width: 50%\" align=\"right\" src=\"https://github-readme-stats.vercel.app/api?username=xieleihan&count_private=true&show_icons=true&line_height=46\" />",
+    "main": "src/index.js",
+    "scripts": {
+        "build": "node src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xieleihan/xieleihan.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/xieleihan/xieleihan/issues"
+    },
+    "homepage": "https://github.com/xieleihan/xieleihan#readme",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "dayjs": "^1.11.1",
+        "dotenv": "^16.0.0",
+        "ejs": "^3.1.6",
+        "html-prettify": "^1.0.6"
+    }
+}
