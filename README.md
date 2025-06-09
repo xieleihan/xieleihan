@@ -1,10 +1,10 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>今天是2025年06月10日 01时42分（每天早上 6:30 自动更新）</p>
+<p>今天是2025年06月10日 01时46分（每天早上 6:30 自动更新）</p>
 <hr  />
 <p>你好喵，<img src="/src/images/mona-loading-default.gif" width="25" alt="手势"> 欢迎来访我的世界</p>
 <table width="100%">
-  <tr>
-    <td width="160px" align="center">
+  <tr width="100%">
+    <td width="160px" align="center" style="vertical-align: middle;">
       <img width="150px" src="https://avatars.githubusercontent.com/u/57227318?v=4" alt="Avatar">
     </td>
     <td>
