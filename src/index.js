@@ -17,9 +17,7 @@ const main = async () => {
 
     const tplStr = fs.readFileSync(tplPath, 'utf8');
 
-    const ipinfo = await Promise.all([
-        getInfo(),
-    ]);
+    const ipinfo = await getInfo();
 
     const html = ejs.render(tplStr, {
         ...data,
