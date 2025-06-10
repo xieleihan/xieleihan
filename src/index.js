@@ -17,7 +17,7 @@ const main = async () => {
 
     const tplStr = fs.readFileSync(tplPath, 'utf8');
 
-    const [ipinfo] = await Promise.all([
+    const ipinfo = await Promise.all([
         getInfo(),
     ]);
 
