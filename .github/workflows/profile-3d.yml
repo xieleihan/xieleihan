@@ -33,6 +33,7 @@ jobs:
   generate-readme:
     runs-on: ubuntu-latest
     name: Generate README
+    needs: generate-3d
     steps:
       - name: 设置时区
         uses: szenius/set-timezone@v1.0
