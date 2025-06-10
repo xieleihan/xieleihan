@@ -30,53 +30,53 @@ jobs:
           git commit -m "generated"
           git push
 
-    generate-readme:
-      runs-on: ubuntu-latest
-      name: Generate README
-      needs: generate-3d
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v3
-          with:
-            ref: main
+  generate-readme:
+    runs-on: ubuntu-latest
+    name: Generate README
+    needs: generate-3d
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: main
 
-        - name: 设置时区
-          uses: szenius/set-timezone@v1.0
-          with:
-            timezoneLinux: 'Asia/Shanghai'
-            timezoneMacos: "Asia/Shanghai"
-            timezoneWindows: "Asia/Shanghai"
+      - name: 设置时区
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: 'Asia/Shanghai'
+          timezoneMacos: "Asia/Shanghai"
+          timezoneWindows: "Asia/Shanghai"
 
-        - name: 环境配置
-          uses: actions/setup-node@v3
-          with:
-            node-version: '16.x'
-            cache: 'npm'
+      - name: 环境配置
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+          cache: 'npm'
 
-        - name: 缓存
-          uses: actions/cache@v3
-          with:
-            path: node_modules
-            key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: 缓存
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
 
-        - name: 安装依赖
-          run: npm install
+      - name: 安装依赖
+        run: npm install
 
-        - name: 生成 README.md
-          env:
-            M3O_TOKEN: ${{ secrets.M3O_TOKEN }}
-          run: npm run build --if-present
+      - name: 生成 README.md
+        env:
+          M3O_TOKEN: ${{ secrets.M3O_TOKEN }}
+        run: npm run build --if-present
 
-        - name: Git Pull Before Push
-          run: |
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git pull --rebase --autostash origin main
+      - name: Git Pull Before Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git pull --rebase --autostash origin main
 
-        - name: 推送新 README.md
-          uses: stefanzweifel/git-auto-commit-action@v5
-          with:
-            commit_message: "Auto update README"
-            branch: main
-            commit_user_name: github-actions
-            commit_user_email: github-actions@github.com
+      - name: 推送新 README.md
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto update README"
+          branch: main
+          commit_user_name: github-actions
+          commit_user_email: github-actions@github.com
