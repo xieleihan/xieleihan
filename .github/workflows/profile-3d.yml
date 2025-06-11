@@ -9,8 +9,6 @@ on:
   schedule:
     # Profile 3D 图像更新（每天 5:00 UTC）
     - cron: "0 21 * * *"
-    # README 每天 6:30（UTC+8）
-    - cron: "30 22 * * *"
 
 jobs:
   generate-3d:
