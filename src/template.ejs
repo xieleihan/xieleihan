@@ -1,17 +1,17 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
 
-<p>今天是<%= updatedAt %>（每天早上 6:30 自动更新）</p>
-<p>欢迎来到我的个人主页！</p>
-<p>服务器信息:<%= ipinfo %></p>
+<p>最近更新的时间:<%= updatedAt %>（每天早上 5:00 自动更新）</p>
+<p>Welcome to my personal homepage！</p>
+<p><%= ipinfo %></p>
 
 <hr />
 
-<p>你好喵，<img src="/src/images/mona-loading-default.gif" width="25" alt="手势"> 欢迎来访我的世界</p>
+<p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
 
 <table style="width:100%; table-layout:fixed;">
     <tr>
         <td width="160" align="center">
-            <img width="150" src="https://avatars.githubusercontent.com/u/57227318?v=4" alt="Avatar">
+            <img width="150" loading="lazy" src="https://avatars.githubusercontent.com/u/57227318?v=4" alt="Avatar">
         </td>
         <td style="padding-left: 10px; width:100%;">
             <h2>南秋SouthAki</h2>
@@ -20,15 +20,18 @@
         </td>
     </tr>
 </table>
+
 <table>
-    <h3 align="left">Tools & Technology Stack:</h3>
+    <th colspan="2">
+        <h3 align="left">Tools & Technology Stack:</h3>
+    </th>
     <tr>
         <td>
             <h4 align="left">Technology Stack:</h4>
             <div align="center">
                 <% languages.forEach(function(language){ %>
-                    <img src="<%= language.iconUrl %>" height="45" alt="<%= language.iconAlt %>" />
-                    <img width="6" />
+                    <img src="<%= language.iconUrl %>" height="45" loading="lazy" alt="<%= language.iconAlt %>" />
+                    <img width="6" loading="lazy" />
                     <% }); %>
             </div>
             
@@ -37,8 +40,8 @@
             <h4 align="left">Tools:</h4>
             <div align="center">
                 <% tools.forEach(function(tool){ %>
-                    <img src="<%= tool.iconUrl %>" height="45" alt="<%= tool.iconAlt %>" />
-                    <img width="6" />
+                    <img src="<%= tool.iconUrl %>" height="45" loading="lazy" alt="<%= tool.iconAlt %>" />
+                    <img width="6" loading="lazy" />
                     <% }); %>
             </div>
         </td>
@@ -47,14 +50,35 @@
         <td>
             <h4 align="left">Self Introduction:</h4>
             <div align="center">
-                <p align="left">- ✨ Creating bugs since 2021 (my coding journey began)</p>
-                <p align="left">- 🌱 I’m currently learning : Full stack development</p>
-                <p align="left">- 📫 How to reach me: <a href="https://mail.google.com">xieleihan@southaki.cn</a></p>
-                <p align="left">- 💬 Ask me about : 🌈It must be Top, not Bottom, no, don’t think I am</p>
+                <p align="left">
+                    <details align="left">
+                        <summary align="left">When do you start writing code?</summary>
+                        - ✨ Creating bugs since 2021 (my coding journey began)
+                    </details>
+                </p>
+                <p align="left">
+                    <details align="left">
+                        <summary align="left">What you want to achieve</summary>
+                        - 🌱 I’m currently learning : Full stack development
+                    </details>
+                </p>
+                <p align="left">
+                    <details align="left">
+                        <summary align="left">How to contact me</summary>
+                        - 📫 You can: <a href="mailto:xieleihan@southaki.cn">点击给我发邮件</a>
+                    </details>
+                </p>
+                <p align="left">
+                    <details align="left">
+                        <summary align="left">What is sexual orientation?</summary>
+                        - 💬 Ask me about : 🌈It must be Top, not Bottom, no, don’t think I am
+                    </details>
+                </p>
             </div>
         </td>
         <td>
-            <img src="https://github-contribution-stats.vercel.app/api/?username=xieleihan" align="center"
+            <h4 align="left">Personal achievements:</h4>
+            <img loading="lazy" src="https://github-contribution-stats.vercel.app/api/?username=xieleihan" align="center"
                 alt="Stats" />
         </td>
     </tr>
@@ -69,19 +93,28 @@ Github WidgetBox
 </h2>
 </p>
 <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=xieleihan&data=followers,repositories,stars,commits"
+    <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=xieleihan&data=followers,repositories,stars,commits"
         align="center" alt="Stats" />
 </p>
 
 <!-- Profile-3D-Contrib -->
-<img src="./profile-3d-contrib/profile-gitblock.svg"  alt="Github Commit Profile-3D-Contrib" />
+<img loading="lazy" src="./profile-3d-contrib/profile-gitblock.svg"  alt="Github Commit Profile-3D-Contrib" />
 
 <br />
 
 <!-- Quotes 名人名言 -->
 <h3 align="left">Quotes :</h3>
 <div align="center">
-    <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br /></div>
+    <div>
+        <table>
+            <tr>
+                <td>
+                    <%= hitokoto %>
+                </td>
+            </tr>
+        </table>
+        <br />
+    </div>
 </div>
 
 <!--
@@ -93,9 +126,9 @@ Github Stats
 </h2>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xieleihan&count_private=true&show_icons=true&line_height=46"
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=xieleihan&count_private=true&show_icons=true&line_height=46"
         align="center" alt="Stats" />
-    <img src="https://github-contribution-stats.vercel.app/api/?username=xieleihan" align="center" alt="Stats" />
+    <img loading="lazy" src="https://github-contribution-stats.vercel.app/api/?username=xieleihan" align="center" alt="Stats" />
 </p>
 
 <!--
@@ -107,6 +140,6 @@ Current Streak
 </h2>
 </p>
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=xieleihan" align="center"
+    <img loading="lazy" src="https://streak-stats.demolab.com/?user=xieleihan" align="center"
         alt="Github Readme Streak Stats" />
 </p>
