@@ -1,7 +1,7 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2025年06月28日 05时04分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2025年06月29日 05时03分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
-<p>当前Action服务器的IP地址是: 40.79.59.25, 位置在: 美国弗吉尼亚州博伊德顿 - 微软公司</p>
+<p>当前Action服务器的IP地址是: 13.93.179.158, 位置在: 美国加利福尼亚州圣何塞 - 微软公司</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
 <table style="width:100%; table-layout:fixed;">
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        当遇到你时，大脑连上CSGO都会掉帧。</td>
+        梦想脱胎于现实，现实由梦想所化。</td>
       </tr>
     </table>
     <br  />
