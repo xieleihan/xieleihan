@@ -1,7 +1,7 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2025年07月07日 10时14分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2025年07月07日 10时32分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
-<p>当前Action服务器的IP地址是: 172.173.220.219, 位置在: 美国弗吉尼亚州华盛顿 - 微软有限公司</p>
+<p>当前Action服务器的IP地址是: 172.172.137.239, 位置在: 美国弗吉尼亚州华盛顿 - 微软有限公司</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
 <table style="width:100%; table-layout:fixed;">
@@ -24,54 +24,54 @@
     <td>
       <h4 align="left">Technology Stack:</h4>
       <div align="center">
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" loading="lazy" alt="html5 logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="45" loading="lazy" alt="html5 logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" loading="lazy" alt="css3 logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" loading="lazy" alt="css3 logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" loading="lazy" alt="javascript logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" loading="lazy" alt="javascript logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" loading="lazy" alt="typescript logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" width="45" loading="lazy" alt="typescript logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" loading="lazy" alt="sass logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" width="45" loading="lazy" alt="sass logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" loading="lazy" alt="bootstrap logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" width="45" loading="lazy" alt="bootstrap logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" loading="lazy" alt="tailwindcss logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" width="45" loading="lazy" alt="tailwindcss logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" loading="lazy" alt="vuejs logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" width="45" loading="lazy" alt="vuejs logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" loading="lazy" alt="react logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" loading="lazy" alt="react logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" loading="lazy" alt="nodejs logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="45" loading="lazy" alt="nodejs logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" loading="lazy" alt="python logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="45" loading="lazy" alt="python logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" loading="lazy" alt="java logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" width="45" loading="lazy" alt="java logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" loading="lazy" alt="mysql logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" width="45" loading="lazy" alt="mysql logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" loading="lazy" alt="redis logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" width="45" loading="lazy" alt="redis logo"  />
         <img width="6" loading="lazy"  />
       </div>
     </td>
     <td>
       <h4 align="left">Tools:</h4>
       <div align="center">
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="45" loading="lazy" alt="atom logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="45" width="45" loading="lazy" alt="atom logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" loading="lazy" alt="vscode logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" width="45" loading="lazy" alt="vscode logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="45" loading="lazy" alt="webpack logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="45" width="45" loading="lazy" alt="webpack logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" loading="lazy" alt="docker logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" width="45" loading="lazy" alt="docker logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" loading="lazy" alt="nginx logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" width="45" loading="lazy" alt="nginx logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="45" loading="lazy" alt="xcode logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="45" width="45" loading="lazy" alt="xcode logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" loading="lazy" alt="figma logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" width="45" loading="lazy" alt="figma logo"  />
         <img width="6" loading="lazy"  />
-        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" loading="lazy" alt="intellij logo"  />
+        <img src="https://fastly.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" width="45" loading="lazy" alt="intellij logo"  />
         <img width="6" loading="lazy"  />
       </div>
     </td>
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        博文天下，遍理人间！</td>
+        投我以木瓜，报之以琼琚。匪报也，永以为好也！</td>
       </tr>
     </table>
     <br  />
