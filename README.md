@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2025年07月09日 05时04分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2025年07月10日 05时04分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <p>当前Action服务器的IP地址是: undefined, 位置在: undefined</p>
 <hr  />
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        我一直以为人是慢慢变老的，其实不是，人是一瞬间变老的。</td>
+        醒时空为梦一场，事事俱忘，何处是吾乡。</td>
       </tr>
     </table>
     <br  />
