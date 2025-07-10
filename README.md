@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2025年07月10日 05时04分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2025年07月11日 05时04分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <p>当前Action服务器的IP地址是: undefined, 位置在: undefined</p>
 <hr  />
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        醒时空为梦一场，事事俱忘，何处是吾乡。</td>
+        不是为了战斗而活着，而是为了活着而战斗。</td>
       </tr>
     </table>
     <br  />
