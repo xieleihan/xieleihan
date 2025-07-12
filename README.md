@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2025年07月12日 05时04分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2025年07月13日 05时03分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <p>当前Action服务器的IP地址是: undefined, 位置在: undefined</p>
 <hr  />
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        I will always be here for you.</td>
+        对于真挚的爱意，我将永不争辩。</td>
       </tr>
     </table>
     <br  />
