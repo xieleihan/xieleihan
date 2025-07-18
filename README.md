@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2025年07月18日 05时03分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2025年07月19日 05时03分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <p>当前Action服务器的IP地址是: undefined, 位置在: undefined</p>
 <hr  />
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        人，百年一世；龙，百年一岁。君生吾已老，君未变，而吾已老。</td>
+        上元佳节，神武大街，惊鸿一瞥，百世沦陷。</td>
       </tr>
     </table>
     <br  />
