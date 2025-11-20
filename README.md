@@ -1,7 +1,7 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2025年11月20日 05时03分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2025年11月21日 05时04分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
-<p>当前Action服务器的IP地址是: 52.154.132.162, 位置在: 美国爱荷华州德梅因 - 微软公司</p>
+<p>当前Action服务器的IP地址是: 48.214.54.113, 位置在: 英国英国伦敦 - 微软有限公司</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
 <table style="width:100%; table-layout:fixed;">
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        爱与友情以及勇气改变不了一个人，只有受伤才能让人成长。</td>
+        它以言语中浮现的“罪孽”为食。</td>
       </tr>
     </table>
     <br  />
