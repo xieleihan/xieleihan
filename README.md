@@ -1,7 +1,7 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2025年11月30日 05时03分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2025年12月01日 05时03分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
-<p>当前Action服务器的IP地址是: 20.55.87.54, 位置在: 美国弗吉尼亚州华盛顿 - 微软公司</p>
+<p>当前Action服务器的IP地址是: 172.215.209.64, 位置在: 美国怀俄明州夏延 - 微软有限公司</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
 <table style="width:100%; table-layout:fixed;">
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        其实美丽的故事都是没有结局的，只因为它没有结局所以才会美丽。</td>
+        アートは最高です！</td>
       </tr>
     </table>
     <br  />
