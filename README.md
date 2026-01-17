@@ -1,7 +1,7 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年01月17日 05时04分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年01月18日 05时03分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
-<p>当前Action服务器的IP地址是: 68.154.37.65, 位置在: 美国弗吉尼亚州博伊德顿 - ATL-PPP</p>
+<p>当前Action服务器的IP地址是: 128.24.160.242, 位置在: 英国英国伦敦 - 微软有限公司</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
 <table style="width:100%; table-layout:fixed;">
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        那天，我听到了种子破土的声音，又细微又坚定。</td>
+        实变函数学十遍，泛函学完心泛寒。</td>
       </tr>
     </table>
     <br  />
