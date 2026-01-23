@@ -1,7 +1,7 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年01月23日 05时05分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年01月24日 05时04分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
-<p>当前Action服务器的IP地址是: 68.154.37.68, 位置在: 美国弗吉尼亚州博伊德顿 - ATL-PPP</p>
+<p>当前Action服务器的IP地址是: undefined, 位置在: undefined</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
 <table style="width:100%; table-layout:fixed;">
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        逸一时，误一世。</td>
+        我的出生就是为了用鲜花将你淹没。</td>
       </tr>
     </table>
     <br  />
