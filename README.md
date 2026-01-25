@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年01月25日 05时03分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年01月26日 05时03分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <p>当前Action服务器的IP地址是: undefined, 位置在: undefined</p>
 <hr  />
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        砸瓦鲁多！</td>
+        我们的学生会长，比高达还强。</td>
       </tr>
     </table>
     <br  />
