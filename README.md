@@ -1,7 +1,7 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年01月27日 05时05分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年01月28日 05时03分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
-<p>当前Action服务器的IP地址是: undefined, 位置在: undefined</p>
+<p>当前Action服务器的IP地址是: 64.236.131.244, 位置在: 英国英国伦敦 - 微软有限公司</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
 <table style="width:100%; table-layout:fixed;">
@@ -127,7 +127,7 @@
     <table>
       <tr>
         <td>
-        因为你喜欢海，所以我一直浪。</td>
+        每个人的心里，都有一个忘不记，却无法拥抱珍惜的人。</td>
       </tr>
     </table>
     <br  />
