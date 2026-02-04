@@ -31,12 +31,10 @@ const main = async () => {
 
     const tplStr = fs.readFileSync(tplPath, 'utf8');
 
-    const ipinfo = await retry(() => getInfo(), 3, 10000);
     const hitokoto = await retry(() => getHitokoto(), 3, 10000);
 
     const html = ejs.render(tplStr, {
         ...data,
-        ipinfo,
         updatedAt,
         hitokoto,
     });
