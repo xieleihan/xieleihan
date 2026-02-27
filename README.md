@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年02月27日 05时11分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年02月28日 05时07分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        让子弹飞一会儿！</td>
+        其实美丽的故事都是没有结局的，只因为它没有结局所以才会美丽。</td>
       </tr>
     </table>
     <br  />
