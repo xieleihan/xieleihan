@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年03月25日 05时12分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年03月26日 05时11分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        英雄也有适合英雄战斗的舞台！</td>
+        人类最大的潜力就是痛苦过后依然前行，向着心中的光。</td>
       </tr>
     </table>
     <br  />
