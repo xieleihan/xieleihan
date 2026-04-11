@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年04月11日 05时11分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年04月12日 05时09分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        我们办的不是案子，是别人的人生。</td>
+        现实与理想相差了十万八千里,我马不停蹄,却也鞭长莫及。</td>
       </tr>
     </table>
     <br  />
