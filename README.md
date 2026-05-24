@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年05月24日 05时18分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年05月25日 05时20分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        独自莫凭栏，无限江山，别时容易见时难。</td>
+        只有分离后才能懂的事，却没有了感慨的时间。</td>
       </tr>
     </table>
     <br  />
