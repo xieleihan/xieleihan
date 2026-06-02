@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年06月02日 06时03分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年06月03日 05时57分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        现实残酷地对待我们，那我们就去把现实砸个粉碎！</td>
+        温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。</td>
       </tr>
     </table>
     <br  />
