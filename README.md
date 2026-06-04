@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年06月04日 05时58分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年06月05日 05时33分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        人，百年一世；龙，百年一岁。君生吾已老，君未变，而吾已老。</td>
+        你处在幸福的未知之中，不用去管白天的责任和问题。</td>
       </tr>
     </table>
     <br  />
