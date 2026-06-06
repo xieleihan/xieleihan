@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年06月06日 05时31分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年06月07日 05时23分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        十年雨停，终见黎明；十年磨刀，只为弑神。</td>
+        苟利国家生死以，岂因祸福避趋之！</td>
       </tr>
     </table>
     <br  />
