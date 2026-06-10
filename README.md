@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年06月10日 05时34分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年06月11日 05时41分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        忘掉生日，忘掉青涩的诗，忘掉他不厌其烦夜夜追逐他影子。</td>
+        那个夏天像一团旧烟火，回忆牵我。</td>
       </tr>
     </table>
     <br  />
