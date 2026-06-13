@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年06月13日 05时34分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年06月14日 05时28分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        你知道雪为什么是白色的吗？因为她忘记了本来的颜色。</td>
+        变好的过程都不太舒服，试试再努力点。</td>
       </tr>
     </table>
     <br  />
