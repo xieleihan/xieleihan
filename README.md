@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年06月19日 05时41分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年06月20日 05时26分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        为了做一名真正的绅士，即使明知必输无疑，也要有勇气接受挑战！</td>
+        萤火之光看起来比平常要更耀眼是错觉吗？今宵会成为永夜的吧。</td>
       </tr>
     </table>
     <br  />
