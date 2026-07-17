@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年07月17日 05时22分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年07月18日 05时16分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        顺为凡，逆为仙，只在中间颠倒颠。</td>
+        世界历史的最后一个阶段是它的悲剧。</td>
       </tr>
     </table>
     <br  />
