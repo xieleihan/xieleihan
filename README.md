@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年07月23日 05时24分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年07月24日 05时24分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        不如意事常八九，可与语人无二三。</td>
+        一生之重，不过饱餐和被爱；一生所求，不过温暖与良人。</td>
       </tr>
     </table>
     <br  />
