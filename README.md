@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年08月12日 05时16分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年08月13日 05时16分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        亲人的离去不是一场暴雨，而是此生漫长的潮湿。</td>
+        我怀念你的时间已经超过你陪伴我的时间了。</td>
       </tr>
     </table>
     <br  />
