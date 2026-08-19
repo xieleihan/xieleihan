@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年08月19日 05时05分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年08月20日 05时07分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        人间忽晚，山河已秋。</td>
+        智者埋泉下，愚者长不灭。</td>
       </tr>
     </table>
     <br  />
