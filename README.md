@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年09月18日 05时08分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年09月19日 05时07分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        投我以木瓜，报之以琼琚。匪报也，永以为好也！</td>
+        有形的东西迟早会凋零，但只有回忆是永远不会凋零的。</td>
       </tr>
     </table>
     <br  />
