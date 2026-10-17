@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年10月17日 05时07分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年10月17日 23时55分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -104,7 +104,7 @@
     </td>
     <td>
       <h4 align="left">Personal achievements:</h4>
-      <img loading="lazy" src="https://github-contribution-stats.vercel.app/api/?username=SouthAki" align="center"alt="Stats"  />
+      <img loading="lazy" src="https://github-contribution-stats.vercel.app/api/?username=xieleihan" align="center"alt="Stats"  />
     </td>
   </tr>
 </table>
@@ -114,7 +114,7 @@
   Github WidgetBox</h2>
 </p>
 <p align="center">
-  <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=SouthAki&data=followers,repositories,stars,commits"align="center" alt="Stats"  />
+  <img loading="lazy" src="https://github-widgetbox.vercel.app/api/profile?username=xieleihan&data=followers,repositories,stars,commits"align="center" alt="Stats"  />
 </p>
 <!-- Profile-3D-Contrib -->
 <img loading="lazy" src="./profile-3d-contrib/profile-gitblock.svg"  alt="Github Commit Profile-3D-Contrib"  />
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        鱼和熊掌不可兼得，除非加钱。</td>
+        当你足够期待失望时，你就永远不会失望。</td>
       </tr>
     </table>
     <br  />
@@ -138,8 +138,8 @@
   Github Stats</h2>
 </p>
 <p align="center">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=SouthAki&count_private=true&show_icons=true&line_height=46"align="center" alt="Stats"  />
-  <img loading="lazy" src="https://github-contribution-stats.vercel.app/api/?username=SouthAki" align="center" alt="Stats"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=xieleihan&count_private=true&show_icons=true&line_height=46"align="center" alt="Stats"  />
+  <img loading="lazy" src="https://github-contribution-stats.vercel.app/api/?username=xieleihan" align="center" alt="Stats"  />
 </p>
 <!-- Current Streak -->
 <p align="center">
@@ -147,5 +147,5 @@
   Current Streak</h2>
 </p>
 <p align="center">
-  <img loading="lazy" src="https://streak-stats.demolab.com/?user=SouthAki" align="center"alt="Github Readme Streak Stats"  />
+  <img loading="lazy" src="https://streak-stats.demolab.com/?user=xieleihan" align="center"alt="Github Readme Streak Stats"  />
 </p>
